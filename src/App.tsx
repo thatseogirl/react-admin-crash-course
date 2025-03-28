@@ -8,7 +8,7 @@ import UserShow from "./pages/users/user-show-list";
 import EditPosts from "./pages/posts/edit-list";
 import CreatePost from "./pages/posts/create-list";
 import { Article, Person } from "@mui/icons-material";
-import HomePage from "./pages/homePage";
+import HomePage from "./pages/HomePage";
 import { authProvider } from "./AuthProvider";
 
 export const App = () => (
